@@ -1,0 +1,13 @@
+.round{
+    border-radius: 10%;
+    height: 70vh;
+}
+.search{
+    border-radius: 10px;
+    height: 3rem;
+    width: 70%;
+}
+.middle{
+    height: 20vh;
+    border-radius: 10px;
+}
